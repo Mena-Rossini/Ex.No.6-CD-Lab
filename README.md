@@ -1,6 +1,6 @@
 # Ex.No:6
 # IMPLEMENTATION OF THE BACK END OF THE COMPILER 
-### Name: Mens Rossini R
+### Name: Mena Rossini R
 ### Register Number: 212222040099
 ### Date: 26/10/2024
 ## AIM:
